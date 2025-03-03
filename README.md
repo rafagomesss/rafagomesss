@@ -8,7 +8,7 @@ I am on a continuous journey to become a better developer every day, with the go
 I'm a passionate **Full-Stack Developer** specializing in modern web technologies. With a strong background in **Laravel** and **Vue 3**,
 I build high-performance applications with clean and maintainable code. I'm always looking to improve and contribute to the tech community.
 
-**🌍 English Proficiency:** A1 (Beginner) – Actively improving.  
+**🌍 English Proficiency:** A2 (Beginner) – Actively improving.  
 
 ### 🔧 Technologies I Work With:
 - **Backend:** Laravel, PHP, Node.js, RESTful APIs
