@@ -30,6 +30,6 @@ I build high-performance applications with clean and maintainable code. I'm alwa
 - Features: User roles, task management, and real-time updates.
 
 ### 📩 Let's Connect:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ggomes-rafael)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ogomesrafael)
 
 ⚡ **Always learning, always building!**
