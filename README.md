@@ -30,7 +30,7 @@ I build high-performance applications with clean and maintainable code. I'm alwa
 - Features: User roles, task management, and real-time updates.
 
 ### 📩 Let's Connect:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ogomesrafael)
-- 🔗 <a href="https://www.linkedin.com/in/ogomesrafael" target="_blank">LinkedIn</a>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ogomesrafael) _(Abra em uma nova guia: Ctrl + Click)_
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ogomesrafael)
 
 ⚡ **Always learning, always building!**
