@@ -31,5 +31,6 @@ I build high-performance applications with clean and maintainable code. I'm alwa
 
 ### 📩 Let's Connect:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ogomesrafael)
+- 🔗 <a href="https://www.linkedin.com/in/ogomesrafael" target="_blank">LinkedIn</a>
 
 ⚡ **Always learning, always building!**
